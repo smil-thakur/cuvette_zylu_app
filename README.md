@@ -1,6 +1,6 @@
 # zylu
 
-A new Flutter project.
+A new Flutter project for cuvette internship.
 
 Flutter App that reads database from Firebase and shows it on App
 
